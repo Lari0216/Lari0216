@@ -5,11 +5,14 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI/SESI. Estou aprendendo e m
 
 Email: larissa.amorim0216@gmail.com
 
+Linkedin: www.linkedin.com/in/larissa-amorim-kussler-7534a0365
 
-<div style="display: flex;" align="center"><br>
-  <img align="center" alt="Larissa-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img justify-content: flex-start;" alt="Larissa-CSS" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Larissa-Js" height="55" width="55" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
-</div>
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://codingcops.com/wp-content/uploads/2025/06/javascript-266x300-1.png" height="41" alt="JavaScript" />
+
+ ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
